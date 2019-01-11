@@ -1,0 +1,202 @@
+.footer {
+  height: 1102px;
+}
+
+.footer .img_background {
+  background-image: url(../../../images/png/footer.png);
+  height: 1062px;
+  width: 1589px;
+  margin: 33px auto;
+}
+
+.footer .top {
+  margin-left: 112px;
+  padding-top: 118px;
+}
+
+.footer .top .item:nth-child(1) {
+  margin-right: 44px;
+}
+
+.footer .top .item:nth-child(2) {
+  margin-right: -16px;
+}
+
+.footer .top .item:nth-child(3) {
+  margin-right: 47px;
+  margin-top: 14px;
+}
+
+.footer .top .item:nth-child(4) {
+  margin-right: 45px;
+}
+
+.footer .line {
+  border-bottom-width: 2px;
+  border-color: #ebebeb;
+  border-bottom-style: solid;
+  width: 308px;
+}
+
+.footer .make,
+.footer .warsaw,
+.footer .geo,
+.footer .category,
+.footer .keywords {
+  float: left;
+  font: 18px/22px Myriad Pro Regular, Regular;
+}
+
+.footer .make .p_1,
+.footer .warsaw .p_1,
+.footer .geo .p_1,
+.footer .category .p_1,
+.footer .keywords .p_1 {
+  color: #c0c0c0;
+}
+
+.footer .trait {
+  background-color: #f5f5f5;
+  width: 1458px;
+  height: 2px;
+  margin-top: 128px;
+  margin-left: 66px;
+}
+
+.footer .emblems {
+  margin-top: 45px;
+  margin-left: 113px;
+}
+
+.footer .price_Years {
+  margin-top: 71px;
+  margin-left: 112px;
+}
+
+.footer .price_Years .item {
+  float: left;
+}
+
+.footer .price_Years .item:nth-child(1) {
+  margin-right: 44px;
+}
+
+.footer .price_Years .item:nth-child(2) {
+  margin-right: 46px;
+}
+
+.footer .price_Years .item:nth-child(3) {
+  margin-right: 46px;
+}
+
+.footer .price_Years .p_1 {
+  font: 18px/22px Myriad Pro Regular, Regular;
+  color: #c1c1c1;
+}
+
+.footer .price_Years .line {
+  border-bottom-width: 2px;
+  border-color: #ebebeb;
+  border-bottom-style: solid;
+  width: 308px;
+}
+
+.footer .btn_Hide {
+  background-color: #135ec5;
+  padding: 2px 0 10px 0;
+  margin: 0 auto;
+  width: 184px;
+  border-radius: 21px 20px 0 0;
+  margin-top: 41px;
+}
+
+.footer .btn_Hide p {
+  font: 15px/17px Myriad Pro Regular, Regular;
+  color: #fff;
+  margin: 0 auto;
+  padding: 8px 4px 5px 26px;
+}
+
+.footer .transmission_cilinders {
+  margin-top: 43px;
+  margin-left: 110px;
+}
+
+.footer .transmission_cilinders .item {
+  float: left;
+}
+
+.footer .transmission_cilinders .p_1 {
+  font: 18px/22px Myriad Pro Regular, Regular;
+  color: #6d90d4;
+}
+
+.footer .transmission_cilinders .line {
+  border-bottom-width: 2px;
+  border-color: #3676ce;
+  border-bottom-style: solid;
+  width: 308px;
+}
+
+.footer .transmission_cilinders .item:nth-child(1) {
+  margin-right: 44px;
+}
+
+.footer .transmission_cilinders .item:nth-child(2) {
+  margin-right: 46px;
+}
+
+.footer .transmission_cilinders .item:nth-child(3) {
+  margin-right: 46px;
+}
+
+.footer .power_turbo {
+  margin-top: 43px;
+  margin-left: 110px;
+}
+
+.footer .power_turbo .item {
+  float: left;
+}
+
+.footer .power_turbo .p_1 {
+  font: 18px/22px Myriad Pro Regular, Regular;
+  color: #6d90d4;
+}
+
+.footer .power_turbo .line {
+  border-bottom-width: 2px;
+  border-color: #3676ce;
+  border-bottom-style: solid;
+  width: 308px;
+}
+
+.footer .power_turbo .item:nth-child(1) {
+  margin-right: 44px;
+}
+
+.footer .power_turbo .item:nth-child(2) {
+  margin-right: 46px;
+}
+
+.footer .power_turbo .item:nth-child(3) {
+  margin-right: 46px;
+}
+
+.footer .btn_Search {
+  width: 119px;
+  margin-left: 694px;
+  margin-top: 48px;
+  padding: 7px 16px 1px 68px;
+  background-color: #fff;
+  border-radius: 42px;
+}
+
+.footer .btn_Search p {
+  font: 17px/17px Myriad Pro Regular, Regular;
+  color: #135ec5;
+}
+
+.footer .btn_hover:hover {
+  opacity: 0.5;
+}

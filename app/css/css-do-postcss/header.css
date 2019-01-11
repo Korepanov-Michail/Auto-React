@@ -1,0 +1,146 @@
+.header {
+  background-color: #131210;
+  height: 1131px;
+}
+
+.header .logo img {
+  width: 55px;
+  height: 49px;
+  margin-left: 101px;
+  margin-top: 59px;
+}
+
+.header .contacts {
+  float: right;
+}
+
+.header .contacts img,
+.header .contacts .p_2,
+.header .contacts .p_3,
+.header .contacts .btn {
+  float: right;
+}
+
+.header .contacts .btn {
+  font: 16px/16px Myriad Pro Regular, Regular;
+  width: 58px;
+  height: 51px;
+  margin-left: 0px;
+  margin-right: 81px;
+  margin-top: 55px;
+  background-color: #fff;
+  border-radius: 32px;
+  padding: 6px 32px 0px 35px;
+}
+
+.header .contacts .btn .p_1 {
+  color: #135ec5;
+}
+
+.header .contacts .p_2 {
+  font: 18px/23px Myriad Pro Regular, Regular;
+  margin-left: 0px;
+  margin-right: 63px;
+  margin-top: 75px;
+  color: #fff;
+}
+
+.header .contacts .phone {
+  width: 34px;
+  height: 35px;
+  margin-left: 0px;
+  margin-right: 17px;
+  margin-top: 67px;
+}
+
+.header .contacts .p_3 {
+  font: 18px/23px Myriad Pro Regular, Regular;
+  margin-left: 0px;
+  margin-right: 75px;
+  margin-top: 75px;
+  color: #fff;
+}
+
+.header .contacts .email {
+  width: 32px;
+  height: 25px;
+  margin-left: 0px;
+  margin-right: 15px;
+  margin-top: 71px;
+}
+
+.header .mersedes_1 {
+  margin-left: 189px;
+  margin-top: 12px;
+}
+
+.header .buying .p_4 {
+  font: 20px/23px Myriad Pro Regular, Regular;
+  margin-top: 81px;
+  text-align: center;
+  color: #fff;
+}
+
+.header .make,
+.header .model,
+.header .city,
+.header .header_search_btn {
+  float: left;
+}
+
+.header .make {
+  margin-left: 234px;
+}
+
+.header .make .p_5 {
+  font: 31px/31px Myriad Pro Regular, Regular;
+  color: #3c3c3c;
+  margin-bottom: 15px;
+}
+
+.header .line {
+  border-bottom-width: 2px;
+  border-color: #282726;
+  border-bottom-style: solid;
+  width: 329px;
+}
+
+.header .model {
+  margin-left: 109px;
+}
+
+.header .model .p_5 {
+  font: 31px/31px Myriad Pro Regular, Regular;
+  color: #3c3c3c;
+  margin-bottom: 15px;
+}
+
+.header .city {
+  margin-left: 111px;
+}
+
+.header .city .p_5 {
+  font: 31px/31px Myriad Pro Regular, Regular;
+  color: #3c3c3c;
+  margin-bottom: 15px;
+}
+
+.header .header_search_btn {
+  font: 16px/16px Myriad Pro Regular, Regular;
+  width: 58px;
+  height: 51px;
+  margin-left: 118px;
+  margin-right: 81px;
+  margin-top: 22px;
+  background-color: #135ec5;
+  border-radius: 32px;
+  padding: 6px 83px 0px 72px;
+}
+
+.header .header_search_btn .p_5 {
+  color: #fff;
+}
+
+.header .btn_hover:hover {
+  opacity: 0.5;
+}
